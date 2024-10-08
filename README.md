@@ -1,5 +1,4 @@
-# firedetector
-Advanced fire and gas detector
+# Advanced fire and gas detector
 
 Embedded system project, made in C on Debian then cross-compiled onto a BeagleBone Green
 
